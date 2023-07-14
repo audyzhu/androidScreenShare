@@ -1,5 +1,5 @@
 
-### 
+### 支持<=android11
 ### 效果
 ![demo](https://github.com/android-notes/androidScreenShareAndControl/blob/master/demo.gif?raw=true)
 ### 使用方式
